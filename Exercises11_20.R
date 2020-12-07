@@ -32,7 +32,7 @@ lines(SMAline, col ="red")
 
 #3.
 
-#a. Write the function "myquarter" which allocates quadrants 1:4 to the angle degrees of the vector angle. That means a value of 80° is in quadrant 1, 310 ° in quadrant 4, 400° in quadrant 1 again, and so on
+#a. Write the function "myquarter" which allocates quadrants 1:4 to the angle degrees of the vector angle. That means a value of 80Â° is in quadrant 1, 310 Â° in quadrant 4, 400Â° in quadrant 1 again, and so on
 
 #b. Test the function with the values: (910, 492, 1900)
 myquarter <- function(angle){
